@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:angular-github-actions": "node dist/angular-github-actions/server/server.mjs"
+    
   },
   "private": true,
   "dependencies": {
@@ -25,6 +26,7 @@
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
+
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^17.0.6",
