@@ -14,6 +14,9 @@
     "type": "git",
     "url": "https://github.com/SN-DKR-DIG-TMP/angular-github-actions_final.git"
   },
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com/"
+},
   "dependencies": {
     "@angular/animations": "^17.0.0",
     "@angular/common": "^17.0.0",
