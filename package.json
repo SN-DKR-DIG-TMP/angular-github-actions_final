@@ -1,5 +1,5 @@
 {
-  "name": "angular-github-actions",
+  "name": "SN-DKR-DIG-TMP/angular-github-actions",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -10,7 +10,10 @@
     "serve:ssr:angular-github-actions": "node dist/angular-github-actions/server/server.mjs"
     
   },
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/SN-DKR-DIG-TMP/angular-github-actions_final.git"
+  },
   "dependencies": {
     "@angular/animations": "^17.0.0",
     "@angular/common": "^17.0.0",
