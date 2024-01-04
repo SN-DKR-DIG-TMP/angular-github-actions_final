@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: '18.x'
           registry-url: https://npm.pkg.github.com/
-          scope: '@a845959'
+          scope: '@SN-DKR-DIG-TMP'
       - run: npm install
       - run: npm run build # Si nécessaire
       - run: npm publish
